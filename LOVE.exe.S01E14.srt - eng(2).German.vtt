@@ -1,0 +1,1874 @@
+WEBVTT
+Kind: captions
+Language: pt-PT
+
+00:00:00.340 --> 00:00:01.669
+(Produktionssponsoren)
+
+00:00:01.670 --> 00:00:04.810
+(Ministerium für Kultur, Sport
+und Tourismus und KOCCA)
+
+00:00:05.040 --> 00:00:06.179
+(Dies ist ein fiktives Werk.
+Alle Namen, Charaktere, …)
+
+00:00:06.180 --> 00:00:07.409
+(Und die Ereignisse sind Produkte
+der Fantasie des Autors.)
+
+00:00:07.410 --> 00:00:08.649
+(Alle Kinderdarsteller wurden
+von einem Erziehungsberechtigten begleitet.)
+
+00:00:08.650 --> 00:00:09.710
+(und wurde
+unter Einhaltung der Arbeitsgesetze gefilmt.)
+
+00:00:10.010 --> 00:00:11.280
+(Sondervortrag:
+Deep Learning für eine Karriere in der Tech-Branche)
+
+00:00:11.380 --> 00:00:13.650
+Nach seinem Abschluss am KAIST,
+
+00:00:14.950 --> 00:00:17.459
+Ich habe bei einem großen Technologieunternehmen angefangen, das
+ihr sicher alle kennt.
+
+00:00:17.460 --> 00:00:19.520
+wo ich etwa zwei Jahre als Softwareentwickler tätig war .
+
+00:00:19.720 --> 00:00:23.290
+Aber ich habe im Bereich des Deep Learning ein
+Forschungsgebiet gefunden, das mich begeistert.
+
+00:00:23.360 --> 00:00:26.800
+Im darauffolgenden Semester
+trat ich einem Forschungslabor an der CMU bei.
+
+00:00:30.240 --> 00:00:33.170
+Es mag beeindruckend klingen,
+ist aber eigentlich nichts Besonderes.
+
+00:00:34.940 --> 00:00:37.610
+- Das kann jeder von euch auch tun.
+- Ich musste mal kurz auf die Toilette.
+
+00:00:40.510 --> 00:00:44.620
+Alles begann mit Spielen und Apps, die
+ich in der High School entwickelt habe.
+
+00:00:44.720 --> 00:00:46.920
+Die kleinen Dinge, wissen Sie?
+
+00:00:48.350 --> 00:00:50.420
+- Da bin ich süchtig geworden...
+- Ich frage mich, was ihre Geschichte ist.
+
+00:00:50.590 --> 00:00:51.790
+Das war es, was mich letztendlich
+zum tiefen Lernen geführt hat.
+
+00:00:51.860 --> 00:00:54.129
+Hast du Yeon Sans Blick auf ihn gesehen?
+
+00:00:54.130 --> 00:00:55.829
+Und wie er sie ansieht...
+
+00:00:55.830 --> 00:00:57.400
+Das sagt mir, dass da definitiv
+eine Geschichte dahintersteckt.
+
+00:00:57.630 --> 00:01:01.630
+Heute möchte ich über
+die Forschung sprechen, die mich begeistert...
+
+00:01:01.700 --> 00:01:03.700
+Ich habe gehört, dass sie zusammen zur
+High School gegangen sind.
+
+00:01:04.370 --> 00:01:06.440
+Das ist nur so eine Floskel.
+
+00:01:06.700 --> 00:01:09.240
+Das ist so ähnlich wie wenn Prominente sagen,
+sie seien nur enge Freunde...
+
+00:01:09.310 --> 00:01:11.180
+oder sie kennen sich einfach aus der Schule.
+
+00:01:11.210 --> 00:01:12.239
+- Hallo zusammen.
+- Genau.
+
+00:01:12.240 --> 00:01:13.409
+- Genau.
+- Willkommen im Deep Learning.
+
+00:01:13.410 --> 00:01:16.080
+Stimmt. Du warst ja verreist,
+deshalb weißt du es vielleicht nicht.
+
+00:01:16.980 --> 00:01:20.950
+Stellt euch vor, San hat mich gebeten
+, sie mit jemandem zu verkuppeln.
+
+00:01:21.790 --> 00:01:23.050
+Was ist Deep Learning?
+
+00:01:23.150 --> 00:01:24.160
+Wirklich?
+
+00:01:24.960 --> 00:01:26.890
+Findest du nicht, dass das
+so etwas wie ein Zeichen ist?
+
+00:01:26.960 --> 00:01:29.960
+Der Tag, an dem ein Mann in ihr Leben tritt,
+ist endlich gekommen.
+
+00:01:30.160 --> 00:01:32.100
+Es ist von Vorteil, zu lernen.
+
+00:01:32.430 --> 00:01:33.970
+Wir lernen aus Erfahrung.
+
+00:01:34.830 --> 00:01:36.230
+- Aber...
+- Ja?
+
+00:01:36.400 --> 00:01:37.840
+Also, was Sie sagen wollen...
+
+00:01:38.970 --> 00:01:41.710
+Jemand wie Park Chang Yi...
+
+00:01:41.810 --> 00:01:46.380
+Ein echter Fang: eloquent,
+intelligent, geistreich und gutaussehend.
+
+00:01:46.780 --> 00:01:49.080
+Sprachassistenten wie Siri...
+
+00:01:49.310 --> 00:01:51.050
+- Alles klar.
+- ChatGPT.
+
+00:01:51.220 --> 00:01:53.320
+Ist so ein Typ
+wirklich Sans' Typ?
+
+00:01:53.850 --> 00:01:56.050
+- Er ist genau mein Typ.
+- Was?
+
+00:01:56.120 --> 00:01:58.520
+Aber ich wette, San würde ihn auch mögen.
+
+00:01:59.790 --> 00:02:00.990
+Ich bezweifle es.
+
+00:02:03.390 --> 00:02:05.530
+- Du kennst San nicht wirklich.
+- Genau.
+
+00:02:08.370 --> 00:02:09.929
+Hey, Na Rae, du...
+
+00:02:09.930 --> 00:02:12.700
+Das Gleiche haben sie gesagt,
+als wir unser erstes Gruppenprojekt gemacht haben.
+
+00:02:12.770 --> 00:02:14.870
+Stimmt. Habe ich, aber...
+
+00:02:15.910 --> 00:02:19.040
+Hast du nicht gesagt, du hättest Pläne?
+Warum bist du dann in einer Informatikvorlesung?
+
+00:02:19.880 --> 00:02:22.580
+Ich dachte nur, es könnte
+auch für mich hilfreich sein.
+
+00:02:25.450 --> 00:02:26.750
+Wissen ist Macht, richtig?
+
+00:02:28.950 --> 00:02:29.950
+Ich fühle mich mächtig.
+
+00:02:30.360 --> 00:02:31.660
+(LOVE.exe,
+Folge 14: Das Karriereseminar)
+
+00:02:31.720 --> 00:02:34.690
+Hey, Ban Ji No
+ruft ständig an, um uns zu überreden, mitzumachen.
+
+00:02:35.190 --> 00:02:36.330
+Ernsthaft?
+
+00:02:38.430 --> 00:02:41.100
+Jedenfalls ist es mir eine große Ehre,
+Sie hier zu haben.
+
+00:02:42.570 --> 00:02:44.340
+Aber hast du nicht gesagt,
+du hättest etwas zu erledigen?
+
+00:02:45.100 --> 00:02:46.139
+Sollten Sie nicht losgehen?
+
+00:02:46.140 --> 00:02:47.940
+- Du sagtest, du hättest es einmal zurückgeschoben.
+- Oh...
+
+00:02:48.870 --> 00:02:51.140
+Ich habe es auf morgen verschoben.
+
+00:02:53.180 --> 00:02:56.680
+Außerdem ist das ja so
+eine Art Teamessen.
+
+00:02:56.750 --> 00:02:58.180
+Es wäre also nicht richtig,
+wenn ich mich drücken würde.
+
+00:02:59.650 --> 00:03:01.120
+Das ist kein Teamessen.
+
+00:03:01.450 --> 00:03:03.220
+- Was?
+- Ich bin nur wegen des Hähnchens gekommen.
+
+00:03:03.420 --> 00:03:04.720
+Ich hatte einfach nur Durst.
+
+00:03:05.720 --> 00:03:07.430
+Egal, ich habe auch Durst.
+
+00:03:07.690 --> 00:03:11.030
+Natürlich bin ich auch hier, um herauszufinden,
+was es mit euch beiden auf sich hat.
+
+00:03:11.100 --> 00:03:14.200
+Sie tauschten so ausdrucksvolle Blicke aus.
+
+00:03:14.670 --> 00:03:16.600
+Und vielleicht einen kleinen Dopaminrausch
+durch das Drama erleben?
+
+00:03:19.370 --> 00:03:21.470
+Wovon redest du?
+So ist das nicht.
+
+00:03:27.610 --> 00:03:29.510
+Also, Min Hak, ist das Ihr Hauptfach
+?
+
+00:03:29.880 --> 00:03:31.719
+Nein, ich bin in
+der Abteilung für Modellierung.
+
+00:03:31.720 --> 00:03:33.049
+- Ich verstehe.
+- Ja.
+
+00:03:33.050 --> 00:03:34.220
+Er ist tatsächlich superberühmt.
+
+00:03:34.390 --> 00:03:35.420
+Bitte...
+
+00:03:36.450 --> 00:03:38.860
+Aufgrund einer lächerlichen
+Abteilungszusammenlegung
+
+00:03:39.190 --> 00:03:41.330
+Am Ende landeten wir alle in einem Team
+für den Wettbewerb.
+
+00:03:42.690 --> 00:03:45.300
+Meinst du den
+App-Wettbewerb „Hangang University President's Cup“?
+
+00:03:45.830 --> 00:03:46.830
+Ja.
+
+00:03:47.500 --> 00:03:49.230
+Du bist also auch dabei.
+
+00:03:52.300 --> 00:03:55.710
+Genau. Ich wollte das eigentlich erwähnen,
+als wir alle zusammen waren.
+
+00:03:55.770 --> 00:03:58.940
+Ich kann aber beim letzten Pitch des Wettbewerbs nicht dabei sein .
+
+00:03:59.240 --> 00:04:00.380
+Worüber redest du?
+
+00:04:00.480 --> 00:04:02.410
+Der Streit zwischen Komitee und Schule eskalierte.
+
+00:04:02.550 --> 00:04:04.320
+Ihr habt doch alle die Beiträge auf Everytime gesehen.
+
+00:04:04.520 --> 00:04:08.390
+„Warum protestiert das Mädchen
+in einem Schulwettbewerb gegen die Fusion?“
+
+00:04:09.050 --> 00:04:10.050
+Aber dennoch,
+
+00:04:10.420 --> 00:04:12.089
+So einfach kannst du nicht einfach aussteigen.
+
+00:04:12.090 --> 00:04:13.890
+Auf keinen Fall. Das lassen wir nicht zu.
+
+00:04:14.530 --> 00:04:16.029
+Ich breche das Studium nicht ab.
+
+00:04:16.030 --> 00:04:18.030
+Ich lasse meinen Namen
+der Regel halbwegs auf der Liste.
+
+00:04:18.100 --> 00:04:19.700
+Ich muss einfach vermeiden,
+im Rampenlicht zu stehen.
+
+00:04:23.900 --> 00:04:25.900
+Ich kenne Ihre individuellen Umstände nicht .
+
+00:04:26.240 --> 00:04:27.710
+Wenn es Ihnen aber hauptsächlich darum geht, das Preisgeld zu gewinnen ,
+
+00:04:27.770 --> 00:04:30.310
+Es gibt andere Wege, Geschäfte zu tätigen,
+ohne in den Wettbewerb zu treten.
+
+00:04:30.880 --> 00:04:33.679
+Das Preisgeld mag
+Ihnen viel erscheinen.
+
+00:04:33.680 --> 00:04:35.150
+Für ein großes Unternehmen ist das aber nichts.
+
+00:04:35.310 --> 00:04:38.150
+Wenn die Idee breite Akzeptanz findet,
+wird sie sich leicht verkaufen lassen.
+
+00:04:39.520 --> 00:04:43.490
+Würden Sie in diesem Fall einen Blick
+auf unsere App Split Alarm werfen?
+
+00:04:44.590 --> 00:04:46.420
+Wir befinden uns in der Endphase
+der Entwicklung.
+
+00:04:47.730 --> 00:04:49.360
+Hat ihr
+das schon besprochen?
+
+00:04:50.960 --> 00:04:55.270
+Ich würde mich geehrt fühlen.
+Aber ich bin ja schließlich Richter.
+
+00:04:56.230 --> 00:04:59.600
+Nichts ist in Stein gemeißelt, aber wenn Sie es
+mit dem Geschäft ernst meinen, nicht mit dem Wettbewerb,
+
+00:04:59.670 --> 00:05:00.770
+Dann helfe ich natürlich.
+
+00:05:01.070 --> 00:05:03.110
+Ich kann Sie sogar Leuten
+aus meinem Netzwerk vorstellen.
+
+00:05:03.210 --> 00:05:05.840
+- Wirklich?
+- Natürlich. Alles für San.
+
+00:05:15.490 --> 00:05:16.550
+Verzeihung!
+
+00:05:20.090 --> 00:05:21.530
+Können wir noch fünf Biere bekommen?
+
+00:05:32.400 --> 00:05:34.710
+Ich erinnere mich nicht, dich
+um einen Gefallen gebeten zu haben...
+
+00:05:36.470 --> 00:05:38.310
+Wir wären unglaublich dankbar.
+
+00:05:39.340 --> 00:05:42.350
+Ich kann es nicht fassen, dass wir euch
+auf dem Campus nur mit Hühnchen und Bier verwöhnen.
+
+00:05:44.050 --> 00:05:45.650
+Wovon redest du?
+Das geht auf meine Kappe.
+
+00:05:46.020 --> 00:05:47.850
+Allein schon San wiederzusehen,
+ist für mich mehr als genug.
+
+00:05:50.920 --> 00:05:52.620
+Oh je, entschuldigen Sie!
+
+00:05:55.860 --> 00:05:58.060
+Können wir auch noch etwas Hähnchen bekommen?
+
+00:06:01.700 --> 00:06:02.900
+Ich habe einfach wahnsinnigen Hunger.
+
+00:06:03.630 --> 00:06:04.640
+Und natürlich
+
+00:06:05.370 --> 00:06:06.440
+Ich bezahle dafür.
+
+00:06:11.610 --> 00:06:12.639
+Güte.
+
+00:06:12.640 --> 00:06:13.850
+Drücken Sie beim nächsten Mal
+einfach die Anruftaste.
+
+00:06:16.950 --> 00:06:17.950
+Okay.
+
+00:06:20.320 --> 00:06:22.050
+(Jugendpub)
+
+00:06:22.120 --> 00:06:24.920
+Wirklich? Ihr zwei müsst euch
+ja riesig freuen, einander zu sehen.
+
+00:06:24.990 --> 00:06:28.590
+Moment mal.
+Ihr zwei seid also zusammen zur Schule gegangen?
+
+00:06:28.690 --> 00:06:30.700
+San und ich gingen nicht
+gleichzeitig zur Schule.
+
+00:06:30.930 --> 00:06:32.460
+Ich habe mein Studium vorzeitig,
+nach dem zweiten Studienjahr, abgeschlossen.
+
+00:06:32.600 --> 00:06:35.600
+KAIST. Das erklärt einiges.
+
+00:06:35.930 --> 00:06:37.670
+Als ich zum Homecoming-Fest zurückkam,
+war San erst im ersten Studienjahr.
+
+00:06:37.740 --> 00:06:39.400
+Wie seid ihr beiden euch so nahe gekommen?
+
+00:06:39.470 --> 00:06:40.840
+- Im Ferienlager.
+- Im Ferienlager. Mensch.
+
+00:06:43.010 --> 00:06:45.380
+Es war einfach ein ganz normales naturwissenschaftliches Ferienlager,
+das von der Schule veranstaltet wurde.
+
+00:06:45.440 --> 00:06:46.739
+Das, und dann war da noch...
+
+00:06:46.740 --> 00:06:48.010
+außerdem ein Mentoring-Programm
+mit Alumni...
+
+00:06:48.080 --> 00:06:49.880
+genannt
+das Berufsorientierungsprogramm.
+
+00:06:50.210 --> 00:06:52.420
+Und San war darin brillant.
+
+00:06:53.450 --> 00:06:54.589
+Erinnern Sie sich, wie Ihr Team...
+
+00:06:54.590 --> 00:06:56.250
+Kinematische KI
+für das Deep-Learning-Projekt?
+
+00:06:57.050 --> 00:06:58.920
+Das war echt mühsam.
+
+00:07:00.060 --> 00:07:03.030
+Wir mussten
+eine 500 Megabyte große CSV-Datei mit Rohdaten verwenden...
+
+00:07:03.090 --> 00:07:06.000
+und diese Daten manuell durchzusehen,
+um die Trainingsdaten zu erstellen.
+
+00:07:06.260 --> 00:07:07.800
+Du warst wirklich unglaublich.
+
+00:07:08.230 --> 00:07:09.630
+Moment mal, ihr zwei auch...
+
+00:07:09.700 --> 00:07:11.570
+Bist du sicher, dass es für dich in Ordnung ist,
+nicht am Wettbewerb teilzunehmen?
+
+00:07:11.970 --> 00:07:13.770
+Also, für mich,
+
+00:07:14.210 --> 00:07:17.110
+Ich bin zufrieden, solange
+sich deine ganze harte Arbeit irgendwie auszahlt.
+
+00:07:17.180 --> 00:07:18.180
+Rechts.
+
+00:07:19.210 --> 00:07:20.579
+- Split-Alarm.
+- Woran arbeitest du gerade?
+
+00:07:20.580 --> 00:07:21.980
+Sollten wir wirklich in Erwägung ziehen,
+mit ihm darüber zu sprechen?
+
+00:07:23.210 --> 00:07:24.980
+Er scheint ein netter Kerl zu sein.
+
+00:07:26.150 --> 00:07:28.220
+Dann hat sich wohl alles zum Guten gewendet.
+
+00:07:31.720 --> 00:07:34.690
+Aber das liegt daran, dass du so aufmerksam warst
+, dass du es rechtzeitig geschafft hast.
+
+00:07:34.830 --> 00:07:36.689
+Ohne dich
+wäre dein Team wahrscheinlich...
+
+00:07:36.690 --> 00:07:38.600
+Sie verbrachten das gesamte Camp damit
+, nur auf ihren Computern herumzuklicken.
+
+00:07:39.030 --> 00:07:40.769
+Diejenige, bei der anstelle
+von Bildtraining,
+
+00:07:40.770 --> 00:07:43.030
+Wir haben
+die Bewegung der Kisten verfolgt...
+
+00:07:43.100 --> 00:07:44.900
+und diese Daten wurden als
+Zeitreihendaten trainiert, richtig?
+
+00:07:46.200 --> 00:07:49.210
+Wenn ich gewusst hätte, was für eine Herausforderung
+die Arbeit mit Rohdaten ist,
+
+00:07:49.270 --> 00:07:50.810
+Ich hätte ein anderes Thema gewählt.
+
+00:07:51.880 --> 00:07:53.040
+Worüber reden die überhaupt?
+
+00:07:53.110 --> 00:07:55.580
+Woher soll ich das wissen?
+Das ist doch Fachjargon aus der naturwissenschaftlichen Oberstufe.
+
+00:07:57.280 --> 00:07:59.050
+- Ihre Vergangenheit?
+- Nein, Science High.
+
+00:07:59.380 --> 00:08:00.650
+Sie sind Wunderkinder der Science High School.
+
+00:08:02.250 --> 00:08:04.220
+Das ist das erste Mal, dass ich San über diese Zeit sprechen höre .
+
+00:08:06.720 --> 00:08:08.990
+Sie strahlt förmlich.
+
+00:08:19.870 --> 00:08:21.270
+Das ist so inspirierend.
+
+00:08:21.710 --> 00:08:25.210
+Ich hatte eine Idee für einen Webroman, die ich aber auf Eis gelegt habe,
+weil ich überhaupt nicht weiterkam.
+
+00:08:25.310 --> 00:08:26.839
+Es geht um einen älteren und einen jüngeren Schüler
+, die sich zufällig wiedersehen...
+
+00:08:26.840 --> 00:08:28.150
+zufällig nach dem Studienabschluss.
+
+00:08:28.710 --> 00:08:31.050
+- Sie schreiben Webromane?
+- Ja.
+
+00:08:31.180 --> 00:08:33.279
+Das sind absolute Technikfreaks.
+
+00:08:33.280 --> 00:08:35.420
+Ich habe Informatik aber nur studiert, weil
+ich gehört habe, dass man damit leicht einen Job findet.
+
+00:08:35.820 --> 00:08:37.660
+Aber das ist längst Geschichte.
+
+00:08:37.720 --> 00:08:38.760
+Und außerdem
+passte es nicht zu mir.
+
+00:08:39.090 --> 00:08:40.659
+Daher dachte ich mir, ich könnte ja
+meine Informatikkenntnisse nutzen...
+
+00:08:40.660 --> 00:08:41.990
+und mich im Schreiben versuchen.
+
+00:08:42.390 --> 00:08:44.100
+Kennen Sie zufällig
+eine Firma namens Yes Lab?
+
+00:08:44.160 --> 00:08:46.630
+Ja, es handelt sich um ein riesiges Unternehmen, das
+für seine Webtoons bekannt ist.
+
+00:08:46.760 --> 00:08:48.230
+Ich kenne mich mit Webromanen nicht besonders gut aus.
+
+00:08:48.570 --> 00:08:50.570
+Aber ich kenne den CEO von Yes Lab.
+
+00:08:50.700 --> 00:08:52.770
+Sie arbeiten an einer neuen Plattform.
+
+00:08:52.970 --> 00:08:54.669
+und sie brauchen Autoren für die App.
+
+00:08:54.670 --> 00:08:56.310
+Sie sind auf der Suche nach neuen Talenten.
+
+00:08:56.410 --> 00:08:57.939
+- Wirklich?
+- Ja.
+
+00:08:57.940 --> 00:09:00.480
+Schicken Sie mir Ihre Geschichte, und ich schaue,
+ob ich sie dem CEO zukommen lassen kann.
+
+00:09:00.650 --> 00:09:01.650
+An den CEO?
+
+00:09:02.450 --> 00:09:03.450
+Wirklich?
+
+00:09:03.510 --> 00:09:06.280
+Das ist ja der Wahnsinn!
+Ich bin so froh, dass ich diese Verbindung hergestellt habe.
+
+00:09:06.350 --> 00:09:09.719
+- Wie ist dir das denn in den Schoß gefallen?
+- Was soll ich tun? Warte, welches denn...?
+
+00:09:09.720 --> 00:09:10.889
+- Dieser hier.
+- Dieser hier?
+
+00:09:10.890 --> 00:09:12.390
+- Ich glaube, dieser hier ist der beste.
+- Und dieser hier?
+
+00:09:12.460 --> 00:09:13.790
+Nein. Dieser hier.
+
+00:09:13.860 --> 00:09:15.490
+Danke für das Abendessen.
+
+00:09:15.590 --> 00:09:17.030
+Danke für das Abendessen.
+
+00:09:17.960 --> 00:09:19.230
+Ich melde mich bei euch allen.
+
+00:09:19.960 --> 00:09:23.330
+Ein paar Freunde von mir trinken in der Nähe,
+deshalb mache ich mich schon mal auf den Weg.
+
+00:09:23.400 --> 00:09:25.240
+- Okay.
+- Auf Wiedersehen.
+
+00:09:25.400 --> 00:09:26.700
+- Tschüss.
+- Bis später.
+
+00:09:26.770 --> 00:09:27.770
+Bis später.
+
+00:09:30.340 --> 00:09:32.980
+- Und dann...
+- San, wohin gehst du?
+
+00:09:33.740 --> 00:09:35.610
+Ich kann dich mitnehmen.
+Ich muss sowieso einen Fahrer rufen.
+
+00:09:36.010 --> 00:09:39.450
+Es ist ganz in der Nähe,
+ich kann also einfach zu Fuß gehen.
+
+00:09:39.720 --> 00:09:41.690
+- Oh, nun ja...
+- Min Hak, in welche Richtung gehst du?
+
+00:09:44.820 --> 00:09:46.360
+Ich bin...
+
+00:09:47.120 --> 00:09:48.230
+Wenn ich in diese Richtung gehe...
+
+00:09:49.090 --> 00:09:51.460
+Mein Manager sagte,
+er würde mich an der Schule abholen.
+
+00:09:51.900 --> 00:09:53.160
+Dann komm mit mir.
+
+00:09:53.530 --> 00:09:54.670
+So geht es schneller.
+
+00:09:55.700 --> 00:09:57.700
+- Aber...
+- Ja?
+
+00:09:57.770 --> 00:09:59.440
+Ich glaube, ich habe etwas zu viel getrunken.
+
+00:09:59.970 --> 00:10:02.670
+Ich möchte also ein bisschen spazieren gehen.
+Weißt du, mich etwas bewegen.
+
+00:10:03.140 --> 00:10:06.210
+Dann kenne ich den perfekten Ort
+für einen Spaziergang.
+
+00:10:06.380 --> 00:10:09.910
+Hier entlang. Dort befindet sich ein Park, der
+einen der wichtigsten Preise für Landschaftsarchitektur gewonnen hat.
+
+00:10:09.980 --> 00:10:11.980
+Es ist riesig.
+Man braucht eine Stunde, um es komplett zu Fuß zu erkunden.
+
+00:10:12.450 --> 00:10:13.450
+Wirklich?
+
+00:10:16.590 --> 00:10:18.490
+- Los geht's!
+- Nein, warte.
+
+00:10:18.690 --> 00:10:21.090
+Auf Wiedersehen!
+Und nochmals vielen Dank.
+
+00:10:21.160 --> 00:10:22.160
+Wir sehen uns in der Schule.
+
+00:10:22.430 --> 00:10:23.430
+Ja, okay.
+
+00:10:24.160 --> 00:10:25.600
+- Los geht's.
+- Komm gut nach Hause.
+
+00:10:26.930 --> 00:10:28.670
+- Ich bin's, Rae.
+- Ja, lass uns gehen.
+
+00:10:28.800 --> 00:10:30.070
+Woher wusstest du von dieser Auszeichnung?
+
+00:10:30.270 --> 00:10:31.470
+Was? Wie könnte man da nicht?
+
+00:10:34.470 --> 00:10:36.470
+Wo habe ich denn geparkt?
+
+00:10:36.710 --> 00:10:40.480
+Nein, alles gut.
+Ich kann einfach laufen. Es ist ganz in der Nähe.
+
+00:10:40.980 --> 00:10:42.610
+Oh, dann lass uns ein Stück spazieren gehen.
+
+00:10:43.310 --> 00:10:44.580
+Es ist schon eine Weile her. Wir können uns mal wieder austauschen.
+
+00:10:49.250 --> 00:10:52.490
+Min Hak, du bist ein wirklich netter Kerl,
+aber du hast kein Gespür für die Stimmung in einem Raum, oder?
+
+00:10:53.560 --> 00:10:54.560
+Was?
+
+00:10:55.230 --> 00:10:58.060
+Ich habe versucht, Yeon San
+und Chang Yi allein zu lassen.
+
+00:10:58.130 --> 00:11:01.630
+Und ich habe dir immer wieder Signale gesendet
+, dich rar zu machen.
+
+00:11:01.900 --> 00:11:05.170
+Na Rae, ich glaube nicht, dass
+du die Richtige bist, um so etwas zu sagen.
+
+00:11:05.700 --> 00:11:06.700
+Was soll das bedeuten?
+
+00:11:08.040 --> 00:11:09.040
+Egal.
+
+00:11:09.540 --> 00:11:11.180
+Also, wo genau lag der Park nochmal?
+
+00:11:12.680 --> 00:11:14.350
+- Dort entlang.
+- Dort entlang.
+
+00:11:14.410 --> 00:11:15.410
+Los geht's.
+
+00:11:17.920 --> 00:11:19.850
+Wie sind Sie denn an diese Universität gekommen ?
+
+00:11:20.680 --> 00:11:21.690
+Begnadigung?
+
+00:11:22.420 --> 00:11:23.650
+Ein vollständiges vierjähriges Stipendium?
+
+00:11:24.960 --> 00:11:25.960
+Ja.
+
+00:11:28.960 --> 00:11:30.959
+Die Stiftung dieser Schule
+liegt tatsächlich mütterlicherseits.
+
+00:11:30.960 --> 00:11:32.130
+Deshalb habe ich auch den Vortrag gehalten.
+
+00:11:34.030 --> 00:11:35.030
+Mein Punkt ist...
+
+00:11:37.470 --> 00:11:39.500
+Ich weiß, worum es an der Hangang-Universität
+geht.
+
+00:11:39.970 --> 00:11:41.240
+Ich will es nicht schlechtmachen
+oder so.
+
+00:11:42.270 --> 00:11:43.940
+Das ist nicht die Art von Schule,
+in die du gehörst.
+
+00:11:44.280 --> 00:11:46.740
+Es ist nicht so, als wäre es besonders wettbewerbsintensiv
+oder hätte einen hervorragenden Ruf.
+
+00:11:47.010 --> 00:11:48.350
+Und die Lage ist etwas ungünstig.
+
+00:11:50.050 --> 00:11:52.350
+Ich habe gehört, dass du die Science High
+im zweiten Jahr wortlos verlassen hast.
+
+00:11:52.420 --> 00:11:55.390
+Deshalb dachte ich,
+du hättest einen anderen Plan.
+
+00:11:56.150 --> 00:11:57.690
+Ich bin mir sicher, dass du deine Gründe hattest
+.
+
+00:12:00.290 --> 00:12:01.590
+Das bin ich.
+
+00:12:03.690 --> 00:12:04.700
+Was?
+
+00:12:05.300 --> 00:12:07.770
+Es ist ganz in der Nähe.
+Ich muss kurz anhalten.
+
+00:12:08.670 --> 00:12:11.400
+- Es ist spät. Ich bringe dich nach Hause...
+- Ich muss los.
+
+00:12:14.310 --> 00:12:15.310
+San.
+
+00:12:18.540 --> 00:12:20.440
+Ich habe dich von Zeit zu Zeit besucht .
+
+00:12:20.740 --> 00:12:22.850
+Ich war neugierig, wie es dir geht
+und was du so treibst.
+
+00:12:25.020 --> 00:12:26.380
+Wir hatten echt schöne Zeiten,
+weißt du?
+
+00:12:28.050 --> 00:12:29.050
+Haben wir das?
+
+00:12:29.490 --> 00:12:31.460
+Habe ich dich irgendwie verärgert?
+
+00:12:32.320 --> 00:12:34.460
+Nein, so etwas gibt es nicht.
+
+00:12:35.590 --> 00:12:36.590
+Ich sollte los.
+
+00:13:04.320 --> 00:13:08.190
+Indem man aus den verbleibenden Elementsymbolen eine Verbindung herstellt ?
+
+00:13:08.590 --> 00:13:11.760
+Lasst uns loslegen! Sind wir bereit?
+
+00:13:12.830 --> 00:13:17.200
+Fünf, vier, drei, zwei, eins!
+
+00:13:18.870 --> 00:13:23.170
+Team Acetylen und Team Ozon,
+ihr seid beide die Gewinner!
+
+00:13:23.610 --> 00:13:25.680
+- Kann ich Ihr Telefon haben?
+- Entschuldigung?
+
+00:13:34.350 --> 00:13:35.350
+Das ist meine Telefonnummer.
+
+00:13:37.560 --> 00:13:39.860
+Schreib mir, wenn das Camp vorbei ist.
+Lass uns was essen gehen.
+
+00:13:59.810 --> 00:14:02.080
+(Letzte Anrufe)
+
+00:14:02.150 --> 00:14:05.820
+(Neuen Kontakt hinzufügen)
+
+00:14:29.970 --> 00:14:30.980
+Hey.
+
+00:14:34.140 --> 00:14:36.880
+Na Rae hat mich zu
+einem einstündigen Spaziergang überredet.
+
+00:14:37.720 --> 00:14:39.650
+Und zum Glück
+fing es plötzlich an zu regnen.
+
+00:14:42.290 --> 00:14:44.460
+Komm herein!
+
+00:14:51.030 --> 00:14:53.060
+(Kreatives integriertes Design: Woche 3.
+Abgabe über WeClass bis Donnerstag, 22 Uhr.)
+
+00:14:54.400 --> 00:14:56.970
+(Python-Hacking-Programmierung)
+
+00:15:00.300 --> 00:15:02.210
+Ich glaube nicht, dass ich etwas habe,
+in das du dich verwandeln könntest.
+
+00:15:02.470 --> 00:15:04.840
+- Trockne wenigstens deine Haare.
+- Danke.
+
+00:15:08.350 --> 00:15:11.420
+Wisst ihr noch, als
+ich nicht wusste, was Python ist?
+
+00:15:11.720 --> 00:15:13.180
+und nannten es "Rote Sonne"?
+
+00:15:15.920 --> 00:15:17.450
+Und ehrlich gesagt,
+ich verstehe es immer noch nicht so richtig.
+
+00:15:18.920 --> 00:15:19.960
+Was war Python nochmal?
+
+00:15:20.460 --> 00:15:21.890
+Warst du es, der mir das erklärt hat?
+
+00:15:23.390 --> 00:15:24.400
+Ich bin mir nicht sicher.
+
+00:15:26.100 --> 00:15:28.570
+Ich habe das Gefühl, ich sollte
+das wissen, wenn wir miteinander sprechen.
+
+00:15:31.000 --> 00:15:33.440
+Ich bezweifle, dass wir jemals darüber plaudern müssen .
+
+00:15:34.440 --> 00:15:35.440
+Trotzdem...
+
+00:15:36.240 --> 00:15:37.570
+Sag mir die einfache Version.
+
+00:15:40.480 --> 00:15:41.949
+Also,
+
+00:15:41.950 --> 00:15:44.880
+Es ist prägnanter und dynamischer
+als andere Sprachen.
+
+00:15:45.020 --> 00:15:46.820
+und es ist eine leicht lesbare Programmiersprache .
+
+00:15:48.020 --> 00:15:49.020
+Ist es leicht zu lernen?
+
+00:15:49.650 --> 00:15:51.320
+Kurz und bündig bedeutet nicht unbedingt
+einfach.
+
+00:15:51.990 --> 00:15:54.190
+Es ist mit vielen
+verschiedenen Betriebssystemen kompatibel.
+
+00:15:54.460 --> 00:15:55.590
+Auch wenn sie unterschiedlich sind?
+
+00:15:56.560 --> 00:15:57.560
+Gefällt es Ihnen?
+
+00:15:58.300 --> 00:16:01.230
+Das ist nicht der richtige Vergleich.
+– Eine umfangreiche Bibliothek …
+
+00:16:01.300 --> 00:16:03.069
+Deshalb ist es in hohem Maße skalierbar...
+
+00:16:03.070 --> 00:16:04.230
+Und intuitiv...
+
+00:16:17.180 --> 00:16:18.180
+Was?
+
+00:16:18.580 --> 00:16:19.650
+Was, Moment mal.
+
+00:16:22.350 --> 00:16:24.120
+Überforderst du dich
+in letzter Zeit nicht mit allem?
+
+00:16:25.460 --> 00:16:26.720
+Dir ist ein wenig warm.
+
+00:16:27.660 --> 00:16:29.960
+Ich bin etwas müde,
+aber meine Temperatur ist normal.
+
+00:16:30.260 --> 00:16:32.430
+- Warum ist dein Gesicht dann so rot?
+- Das liegt einfach an meiner Stimmung.
+
+00:16:32.860 --> 00:16:33.930
+"Meine Stimmung?"
+
+00:16:40.900 --> 00:16:42.440
+Vielleicht irre ich mich. Moment.
+
+00:16:48.780 --> 00:16:49.780
+Also?
+
+00:17:41.600 --> 00:17:42.700
+Wer ist es?
+
+00:17:45.900 --> 00:17:46.940
+Kann ich Ihnen helfen?
+
+00:17:47.870 --> 00:17:49.240
+In der Wohnung unter uns gibt es ein Wasserleck .
+
+00:17:50.170 --> 00:17:51.740
+Darf ich einen Blick ins Badezimmer werfen?
+
+00:17:51.910 --> 00:17:53.940
+Musst du das wirklich jetzt sofort überprüfen ?
+
+00:17:54.010 --> 00:17:56.649
+Ihr Nachbar im Erdgeschoss
+ruft mich ständig an.
+
+00:17:56.650 --> 00:17:57.980
+Und ehrlich gesagt, bin ich mit meinem Latein am Ende.
+
+00:17:58.080 --> 00:18:00.480
+Bitte lassen Sie uns das kurz prüfen.
+Es dauert ohnehin nicht lange.
+
+00:18:01.250 --> 00:18:02.250
+Du bist älter als ich, richtig?
+
+00:18:03.520 --> 00:18:04.520
+Einen Moment bitte.
+
+00:18:08.390 --> 00:18:10.730
+Hey, kenne ich dich vielleicht von irgendwoher?
+
+00:18:11.300 --> 00:18:12.600
+Du kommst mir so bekannt vor.
+
+00:18:15.030 --> 00:18:16.030
+Ich glaube nicht.
+
+00:18:24.440 --> 00:18:26.610
+Ihr Name ist ja witzig, nicht wahr?
+Ahn In Dae.
+
+00:18:26.680 --> 00:18:29.610
+- Er gehört mir!
+- Kang Min Hak gehört mir!
+
+00:18:32.250 --> 00:18:34.179
+Hangang-Universität, richtig?
+
+00:18:34.180 --> 00:18:36.190
+Du bist das Mädchen
+, dessen Laptop Min Hak kaputt gemacht hat?
+
+00:18:36.490 --> 00:18:37.490
+Auf keinen Fall!
+
+00:18:38.020 --> 00:18:39.090
+Wohnst du hier?
+
+00:18:41.160 --> 00:18:42.160
+Festhalten.
+
+00:18:52.200 --> 00:18:53.840
+Was ist los?
+
+00:18:54.170 --> 00:18:55.240
+Was ist los?
+
+00:18:55.340 --> 00:18:57.840
+Unten gibt es ein Wasserleck,
+und Sie können jetzt nicht hier sein.
+
+00:18:58.280 --> 00:19:00.240
+- Da ist jemand an der Tür.
+- Um diese Uhrzeit?
+
+00:19:00.340 --> 00:19:01.379
+Ja.
+
+00:19:01.380 --> 00:19:02.810
+Aber wenn es nur der Reparaturmann ist...
+
+00:19:02.880 --> 00:19:04.850
+Sollte ein starker Kerl wie ich nicht
+in deiner Nähe bleiben, um dich zu beschützen?
+
+00:19:05.720 --> 00:19:06.720
+Schau doch mal nach!
+
+00:19:07.850 --> 00:19:08.850
+Meine Güte.
+
+00:19:15.760 --> 00:19:17.430
+Ahn In Dae?
+
+00:19:23.430 --> 00:19:24.430
+Einen Moment bitte!
+
+00:19:26.070 --> 00:19:28.610
+- Hey, kriech unter das Sofa.
+- Unter das Sofa...
+
+00:19:29.610 --> 00:19:32.510
+- Hey, hier unten sind Sachen.
+- Stimmt. Und hier.
+
+00:19:36.950 --> 00:19:37.950
+San.
+
+00:19:39.550 --> 00:19:42.220
+Was wäre, wenn ich einfach einen Hut und eine Maske aufsetze ?
+
+00:19:42.920 --> 00:19:44.990
+- Nein, das funktioniert nicht.
+- Warum nicht? Ich muss mich nur verdecken.
+
+00:19:45.790 --> 00:19:48.690
+Nein, bei ihr geht mit großer Wahrscheinlichkeit etwas
+schief.
+
+00:19:48.760 --> 00:19:50.360
+Der Kühlschrank? Nein, der ist zu kalt.
+
+00:19:52.530 --> 00:19:54.160
+- Der Balkon!
+- Der Balkon.
+
+00:20:00.670 --> 00:20:01.940
+Komm herein.
+
+00:20:05.180 --> 00:20:06.240
+Ich schaue mal im Badezimmer nach.
+
+00:20:14.120 --> 00:20:15.150
+Wenn du an die Hangang-Universität gehst,
+
+00:20:15.520 --> 00:20:18.190
+- Was studierst du?
+- Ich studiere Informatik.
+
+00:20:19.120 --> 00:20:21.490
+- Dann musst du Min Hak oft sehen!
+- Was?
+
+00:20:23.890 --> 00:20:25.230
+Ist er nicht ein Model?
+
+00:20:25.300 --> 00:20:26.459
+Ganz genau!
+
+00:20:26.460 --> 00:20:27.630
+Die Fachbereiche Modellierung und Informatik...
+
+00:20:27.700 --> 00:20:29.169
+wurden
+in die Konvergierte Physikalische...
+
+00:20:29.170 --> 00:20:30.900
+Technologie und globale Inhalte.
+
+00:20:31.600 --> 00:20:33.070
+Meine Güte, sie ist ein echter Fan.
+
+00:20:33.740 --> 00:20:34.740
+Siehst du ihn oft?
+
+00:20:35.110 --> 00:20:36.970
+Nein, nicht so oft.
+
+00:20:37.810 --> 00:20:40.380
+Das leuchtet ein.
+Er ist ja immer so beschäftigt.
+
+00:20:43.280 --> 00:20:45.720
+Hast du Kurse
+bei Min Hak?
+
+00:20:46.550 --> 00:20:47.550
+Ja, manchmal.
+
+00:20:47.920 --> 00:20:49.690
+Da dieser Freund aber
+in der Abteilung für Modellierung arbeitet...
+
+00:20:49.750 --> 00:20:51.759
+"Freund?" Du bist mit ihm befreundet?
+
+00:20:51.760 --> 00:20:53.020
+Nein! Wir sind noch weit davon entfernt.
+
+00:20:54.660 --> 00:20:57.890
+Schade. Ich habe nur gefragt, weil
+auf Min Haks Instagram-Profil…
+
+00:20:57.960 --> 00:21:00.000
+Ich habe gesehen, dass er Gruppenprojekte
+mit Leuten aus der Schule macht.
+
+00:21:00.460 --> 00:21:01.599
+Wirklich?
+
+00:21:01.600 --> 00:21:04.270
+Vielleicht sollte ich zur
+Hangang-Universität gehen, da sie in der Nähe ist.
+
+00:21:05.470 --> 00:21:07.070
+Ich bin so neidisch auf diese Leute.
+
+00:21:07.740 --> 00:21:09.370
+Aber andererseits,
+
+00:21:09.670 --> 00:21:12.140
+Ich mache mir Sorgen, dass zu viele Mädchen
+um Min Hak herum sind.
+
+00:21:12.510 --> 00:21:13.980
+Das schadet seinem Image.
+
+00:21:15.750 --> 00:21:17.510
+Moment mal, sind Sie der Hausverwalter
+oder so?
+
+00:21:17.880 --> 00:21:18.880
+Bitte.
+
+00:21:19.480 --> 00:21:20.720
+Ich bin die Tochter des Vermieters.
+
+00:21:22.820 --> 00:21:25.990
+- Hast du an der Toilette herumgebastelt?
+- Ja.
+
+00:21:26.360 --> 00:21:27.960
+Mein Vater hat ein bisschen daran herumgebastelt.
+
+00:21:28.030 --> 00:21:31.930
+Ah, verstehe. Ich glaube, das ist das Problem.
+Ich schaue auch mal auf dem Balkon nach.
+
+00:21:32.130 --> 00:21:33.259
+Der Balkon?
+
+00:21:33.260 --> 00:21:34.560
+Der Balkon...
+
+00:21:35.000 --> 00:21:38.700
+Ich bin mir nicht ganz sicher, ob jetzt
+ein guter Zeitpunkt ist, den Balkon zu überprüfen.
+
+00:21:39.070 --> 00:21:42.040
+- Ich helfe beim Aufräumen, wenn es unordentlich ist.
+- Nein.
+
+00:21:42.340 --> 00:21:43.410
+Bleiben Sie einen Moment hier.
+
+00:21:44.140 --> 00:21:46.710
+Sir, in der Ecke des Badezimmers,
+
+00:21:46.980 --> 00:21:48.110
+Da gibt es etwas, das du dir ansehen solltest.
+
+00:21:49.750 --> 00:21:50.880
+Die Tochter wird auch einen Blick darauf werfen.
+
+00:21:53.920 --> 00:21:55.490
+Er ist aber nicht mein Vater.
+
+00:21:55.990 --> 00:21:57.519
+Sieht das nicht total seltsam aus?
+
+00:21:57.520 --> 00:21:58.560
+Welcher Teil?
+
+00:21:59.120 --> 00:22:00.560
+Ich glaube, sie meint dort drüben.
+
+00:22:03.030 --> 00:22:04.060
+Versteck dich!
+
+00:22:06.600 --> 00:22:08.500
+- Verschwinden Sie schnell.
+- Wohin?
+
+00:22:11.900 --> 00:22:12.900
+Genau dort drüben.
+
+00:22:15.640 --> 00:22:16.640
+Lassen Sie mich sehen.
+
+00:22:17.370 --> 00:22:19.340
+Okay, das Ventil sollte also
+auf dieser Seite sein.
+
+00:22:21.610 --> 00:22:23.050
+Ich sehe nichts
+besonders Falsches.
+
+00:22:25.850 --> 00:22:28.020
+Ich frage mich, was sie daran seltsam findet.
+
+00:22:28.190 --> 00:22:32.820
+Seit ich hier eingezogen bin, gibt es in der Ecke ein Leck .
+
+00:22:32.890 --> 00:22:34.860
+Und ich denke, wir müssen Klarheit darüber schaffen,
+wer die Verantwortung trägt.
+
+00:22:35.360 --> 00:22:38.730
+Das ist kein Leck.
+Es ist nur stehendes Wasser.
+
+00:22:39.230 --> 00:22:42.100
+Ah, verstehe. Ich habe mich wohl geirrt.
+
+00:22:42.170 --> 00:22:43.970
+Stimmt's?
+Es gibt also kein wirkliches Problem, Sir?
+
+00:22:48.870 --> 00:22:50.370
+Sollen wir den Balkon überprüfen?
+
+00:22:54.610 --> 00:22:55.610
+Hier entlang.
+
+00:23:16.630 --> 00:23:21.540
+(2021 Korea Science High School
+Invention Mentoring Science Camp)
+
+00:23:24.640 --> 00:23:25.980
+(2021 Korea Science High School
+Invention Mentoring Science Camp)
+
+00:23:27.140 --> 00:23:28.150
+Yeon San.
+
+00:23:28.680 --> 00:23:30.110
+Lasst uns dafür sorgen, dass wir am Ende
+auf dieselbe Schule gehen.
+
+00:23:31.010 --> 00:23:32.720
+- Ihre Vergangenheit?
+- Nein, Science High.
+
+00:23:32.850 --> 00:23:34.080
+Sie sind Wunderkinder der Science High School.
+
+00:23:35.090 --> 00:23:36.950
+Das ist das erste Mal, dass ich San über diese Zeit sprechen höre .
+
+00:23:39.060 --> 00:23:41.320
+(2021 Korea Science High School
+Invention Mentoring Science Camp)
+
+00:24:08.990 --> 00:24:10.790
+Ich bringe gleich Frühstück mit.
+
+00:24:13.520 --> 00:24:14.520
+Auf keinen Fall.
+
+00:24:18.060 --> 00:24:19.500
+Ich habe gehört, es gibt da einen Ort
+mit einer richtig guten Atmosphäre.
+
+00:24:20.960 --> 00:24:22.200
+Ich richte mich nach Ihrem Zeitplan.
+
+00:24:25.600 --> 00:24:26.600
+Was?
+
+00:24:27.540 --> 00:24:28.640
+Hey, ich bin Rae.
+
+00:24:32.480 --> 00:24:34.010
+Ich habe morgen Zeit.
+
+00:24:35.450 --> 00:24:36.750
+Nein, das war mein Freund.
+
+00:24:37.450 --> 00:24:40.350
+- Na los.
+- Ich sagte doch, ich sei frei.
+
+00:24:40.580 --> 00:24:42.050
+Hey, ich rufe dich in einer Weile zurück.
+
+00:24:44.250 --> 00:24:45.260
+Du hast Zeit?
+
+00:24:45.890 --> 00:24:47.720
+- Morgen?
+- Ja.
+
+00:24:48.120 --> 00:24:49.630
+Dann komm
+mit mir in dieses Yakitori-Restaurant.
+
+00:24:50.460 --> 00:24:51.760
+Warum plötzlich?
+
+00:24:56.800 --> 00:24:57.830
+Das hast du geschrieben, nicht wahr?
+
+00:24:58.640 --> 00:24:59.640
+Ja.
+
+00:25:01.070 --> 00:25:04.110
+Moment mal, du hast doch nicht etwa wirklich gedacht,
+ich hätte dich einfach so verlassen, oder?
+
+00:25:17.920 --> 00:25:19.920
+Na Rae schläft so tief und fest.
+
+00:25:26.760 --> 00:25:28.100
+(Ich bringe gleich Frühstück mit.)
+
+00:25:39.210 --> 00:25:42.250
+Egal. Ich schiebe es einfach
+auf Pech und vergesse es.
+
+00:25:42.380 --> 00:25:43.810
+Er ist nun auch nicht so toll.
+
+00:25:45.180 --> 00:25:47.250
+Ich möchte auch weinen.
+
+00:25:47.380 --> 00:25:49.450
+Ich kann es nicht fassen, dass mein erstes Mal
+so geendet hat.
+
+00:25:50.120 --> 00:25:51.490
+Dieser Kerl ist wirklich das Allerschlimmste.
+
+00:25:51.660 --> 00:25:52.890
+Das Allerschlimmste.
+
+00:25:59.660 --> 00:26:03.830
+Wie findet man ein Yakitori-Restaurant
+und lädt dann jemanden ein?
+
+00:26:04.230 --> 00:26:06.670
+Du hast nach unserer gemeinsamen Nacht nicht einmal mit mir gegessen .
+
+00:26:06.770 --> 00:26:08.640
+Ich dachte, du hättest keine Lust,
+mit mir essen zu gehen.
+
+00:26:09.810 --> 00:26:12.640
+Ich zerbrach mir den Kopf und
+fragte mich, was ich falsch gemacht hatte.
+
+00:26:17.780 --> 00:26:19.650
+- Um 19 Uhr.
+- Was?
+
+00:26:19.720 --> 00:26:22.450
+Also, lasst uns
+morgen um 19 Uhr zum Yakitori gehen.
+
+00:26:23.550 --> 00:26:24.550
+Okay.
+
+00:26:24.820 --> 00:26:27.390
+Ich werde dich abholen, obwohl du
+mir direkt gegenüber stehst.
+
+00:26:28.260 --> 00:26:29.890
+Sie sind schon wieder dabei.
+
+00:26:31.190 --> 00:26:32.800
+Super gemacht! Tschüss, Kumpel!
+
+00:26:41.940 --> 00:26:43.939
+Ich habe auf Instagram gesehen
+, dass Min Haks älterer Bruder...
+
+00:26:43.940 --> 00:26:45.240
+Ich mochte Omakase.
+
+00:26:45.380 --> 00:26:48.040
+Und was ist mit Min Hak?
+Was mag er?
+
+00:26:50.180 --> 00:26:51.880
+Entschuldigen Sie, ich muss das holen.
+
+00:26:53.220 --> 00:26:54.250
+Hey, Papa.
+
+00:26:55.650 --> 00:26:58.660
+Dazu müssen Sie
+die Rückseite des Kiosks öffnen...
+
+00:26:58.720 --> 00:27:01.830
+Ja, drücken Sie einfach noch einmal auf diesen Knopf.
+
+00:27:02.390 --> 00:27:03.630
+Das habe ich bereits getan.
+
+00:27:04.790 --> 00:27:06.400
+Oh, hier ist noch ein Knopf.
+
+00:27:07.100 --> 00:27:09.100
+Okay, mal sehen.
+
+00:27:09.800 --> 00:27:12.070
+Okay, verstanden.
+Ich rufe an, falls ich wieder nicht weiterkomme.
+
+00:27:28.550 --> 00:27:30.650
+Hey, alles gut.
+
+00:27:31.350 --> 00:27:34.390
+- Was?
+- Entschuldigung. Ich bin so taktlos.
+
+00:27:34.890 --> 00:27:37.630
+Die Leute hier sind nicht konservativ,
+wissen Sie.
+
+00:27:39.200 --> 00:27:40.930
+Ich bin mir nicht sicher, was Sie meinen.
+
+00:27:41.000 --> 00:27:42.869
+Du hast zwei Telefone,
+Herrenschuhe neben der Tür,
+
+00:27:42.870 --> 00:27:44.030
+und herumliegende Herrenkleidung...
+
+00:27:44.800 --> 00:27:45.840
+Das ist meine Kleidung.
+
+00:27:45.900 --> 00:27:49.840
+Ach komm schon. Ich bin fast 20.
+Ich weiß, was Sache ist.
+
+00:27:50.040 --> 00:27:51.940
+Nein, wirklich, ich bin ganz allein hier.
+
+00:28:00.980 --> 00:28:03.650
+Entschuldigen Sie. Könnten Sie bitte nach unten gehen
+und nachsehen, wie es aussieht?
+
+00:28:13.060 --> 00:28:14.760
+Min Hak, komm raus.
+
+00:28:16.100 --> 00:28:17.230
+Okay, kommt raus.
+
+00:28:17.670 --> 00:28:19.370
+- Sind sie weg?
+- Ja.
+
+00:28:21.970 --> 00:28:23.110
+Geht es dir gut?
+
+00:28:27.580 --> 00:28:28.910
+Vielen Dank für Ihre harte Arbeit.
+
+00:28:30.080 --> 00:28:31.150
+Tschüss.
+
+00:28:32.550 --> 00:28:33.580
+Verdammt.
+
+00:28:34.820 --> 00:28:36.390
+- Mein Handy...
+- Stimmt.
+
+00:28:36.450 --> 00:28:37.850
+Ich rufe dich an.
+
+00:28:38.560 --> 00:28:39.990
+- Was?
+- Stimmt.
+
+00:28:40.190 --> 00:28:41.190
+Was ist das?
+
+00:28:41.490 --> 00:28:45.360
+- Was?
+- Gib mir das bitte kurz. Okay?
+
+00:28:45.500 --> 00:28:46.500
+In Ordnung.
+
+00:28:51.940 --> 00:28:53.100
+Meine Güte. Geht es dir gut?
+
+00:28:55.410 --> 00:28:57.070
+- Ich rufe dich an!
+- Okay!
+
+00:29:00.010 --> 00:29:02.850
+- Oh je. Hallo.
+- Oh Gott...
+
+00:29:06.620 --> 00:29:07.820
+Ist alles in Ordnung bei euch?
+
+00:29:09.490 --> 00:29:13.290
+Komm raus und sieh dir das an!
+Dein Freund ist die Treppe runtergefallen!
+
+00:29:20.730 --> 00:29:22.270
+Bist du wirklich gefallen?
+
+00:29:23.930 --> 00:29:25.070
+Oh je...
+
+00:29:27.170 --> 00:29:29.940
+Mir geht es gut. Das war knapp.
+
+00:29:30.240 --> 00:29:33.279
+Ich weiß. Wir müssen vorsichtiger sein.
+
+00:29:33.280 --> 00:29:34.440
+Erzähl mir davon.
+
+00:29:34.940 --> 00:29:37.150
+Da ich ja öfter vorbeikommen werde,
+richtig?
+
+00:29:37.780 --> 00:29:39.250
+Das meinte ich nicht.
+
+00:29:41.480 --> 00:29:45.050
+Übrigens, ich habe etwas gesehen,
+als ich im Kleiderschrank war.
+
+00:29:45.660 --> 00:29:46.660
+Was?
+
+00:29:50.030 --> 00:29:51.260
+Das Magazin,
+für das du das Covermodel warst.
+
+00:29:51.630 --> 00:29:52.960
+Ich habe mit dem auch gelernt,
+weißt du.
+
+00:29:54.200 --> 00:29:56.530
+- Gib mir das.
+- Ich hätte sie verbrennen sollen.
+
+00:29:57.330 --> 00:29:58.770
+Warum? Das wäre doch Verschwendung.
+Gib es mir.
+
+00:29:58.840 --> 00:30:01.100
+Warum sollte ich dir das geben?
+Ich kann dich ja schlecht stattdessen verbrennen.
+
+00:30:01.170 --> 00:30:04.110
+Na gut! Meine Güte.
+
+00:30:06.510 --> 00:30:08.110
+- Süß, nicht wahr?
+- Du...
+
+00:30:08.810 --> 00:30:10.110
+Gib es mir.
+
+00:30:11.750 --> 00:30:13.280
+Was ist los mit dir?
+
+00:30:24.230 --> 00:30:27.800
+(Hanggang Universität)
+
+00:30:44.510 --> 00:30:47.150
+Hey, ich habe tatsächlich ein Treffen
+mit dem Vertreter von Yes Lab vereinbart.
+
+00:30:47.520 --> 00:30:49.650
+- Durch Chang Yi?
+- Ja. Unglaublich, nicht wahr?
+
+00:30:52.660 --> 00:30:54.760
+- Hast du sie online nachgeschlagen?
+- Was?
+
+00:30:55.560 --> 00:30:59.160
+Um herauszufinden, ob die Firma seriös ist
+und ob er tatsächlich dort arbeitet.
+
+00:30:59.500 --> 00:31:02.630
+Was soll das bedeuten?
+Du zweifelst daran, dass meine Texte gut genug sind?
+
+00:31:03.200 --> 00:31:04.370
+Nein, das ist es nicht.
+
+00:31:04.500 --> 00:31:06.699
+Sie wären beinahe von dieser KI betrogen worden.
+
+00:31:06.700 --> 00:31:07.900
+Deshalb ist sie besorgt, nicht wahr?
+
+00:31:08.810 --> 00:31:11.509
+- Sicher ist sicher.
+- Chang Yi hat mich vorgestellt.
+
+00:31:11.510 --> 00:31:12.610
+Was gibt es da schon zu befürchten?
+
+00:31:13.880 --> 00:31:15.550
+Was wissen die überhaupt
+über Park Chang Yi?
+
+00:31:17.210 --> 00:31:20.680
+Hey, hat Chang Yi sich jemals wegen Split Alarm bei dir gemeldet ?
+
+00:31:20.750 --> 00:31:23.020
+Was? Worum geht es?
+
+00:31:23.090 --> 00:31:25.690
+Wir sprachen darüber, Split Alarm
+in ein Unternehmen umzuwandeln.
+
+00:31:26.290 --> 00:31:28.760
+Ja.
+Ich fand das auch eine gute Idee.
+
+00:31:28.960 --> 00:31:31.390
+Und es gibt keine Garantie, dass wir den ersten Platz im Wettbewerb gewinnen .
+
+00:31:32.330 --> 00:31:35.370
+Ich habe von ihm gehört.
+
+00:31:35.830 --> 00:31:37.770
+Doch bevor wir uns
+auf den Wettbewerb vorbereiten,
+
+00:31:38.000 --> 00:31:41.240
+Sollte das Gerücht aufkommen, dass wir
+unser Projekt mit Hilfe eines Insiders verkauft haben,
+
+00:31:41.400 --> 00:31:45.380
+Das wäre für uns beide schlecht,
+deshalb meinte er, wir sollten später reden.
+
+00:31:48.180 --> 00:31:49.480
+Lasst uns das einfach selbst regeln.
+
+00:31:50.980 --> 00:31:51.980
+Wirklich?
+
+00:31:55.250 --> 00:31:56.250
+Das ist schade.
+
+00:31:56.650 --> 00:31:58.250
+Ach, vergiss es.
+Wir müssen einfach nur gewinnen.
+
+00:32:07.030 --> 00:32:08.560
+Was machst du
+heute nach dem Unterricht?
+
+00:32:08.630 --> 00:32:12.540
+(Min Hak: Was machst du
+heute nach dem Unterricht?)
+
+00:32:12.770 --> 00:32:14.770
+Ich benötige Daten für Split Alarm.
+
+00:32:14.900 --> 00:32:16.610
+- Also treffe ich einen älteren Herrn, den ich kenne...
+- Joo Yeon San.
+
